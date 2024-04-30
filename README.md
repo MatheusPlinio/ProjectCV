@@ -14,7 +14,7 @@ Certifique-se de ter os seguintes componentes instalados em seu ambiente de dese
 1. Clone o repositório:
 
     ```bash
-    git clone <URL_DO_REPOSITÓRIO>
+    git clone <https://github.com/MatheusPlinio/ProjectCV.git>
     ```
 
 2. Navegue até a pasta raiz do projeto e execute o seguinte comando para instalar as dependências:

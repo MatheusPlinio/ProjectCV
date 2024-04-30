@@ -1,4 +1,4 @@
-# Projeto XYZ
+# ProjectCV
 
 ## Pré-requisitos
 
